@@ -17,7 +17,7 @@ You will be presented with a web-based text editor for editing files
 as well as a terminal window for command line access.
 
 
-The files view should contain a directory called :code:`eccb18tutorial`.
+The files view should list a directory called :code:`eccb18tutorial` containing the needed materials for this tutorial.
 The contents of this directory are also available `here`_.
 
 .. _here: https://gitlab.ub.uni-bielefeld.de/c/eccb18tutorial
