@@ -1,7 +1,7 @@
 .. Metagenomics Workshop documentation master file, created by
-sphinx-quickstart on Fri Sep 11 18:48:58 2015.
-You can adapt this file completely to your liking, but it should at least
-contain the root `toctree` directive.
+   sphinx-quickstart on Fri Sep 11 18:48:58 2015.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
 Welcome to Metagenomics Workshop!
 =================================
@@ -10,14 +10,14 @@ Welcome to the one-day metagenomics assembly workshop. This tutorial will guide 
 typical steps of metagenome assembly and binning.
 
 .. toctree::
-:maxdepth: 2
+   :maxdepth: 2
 
-       
-       vm
-       data
-       qc/index
-       assembly/index
-       geneprediction/index
-       evaluation/index
-       binning/index
+
+   vm
+   data
+   qc/index
+   assembly/index
+   geneprediction/index
+   evaluation/index
+   binning/index
 
