@@ -13,8 +13,8 @@ This will create a folder named :code:`eccb18tutorial/input` with the following 
 +===============+============================================+
 | genomes/      | Directory containing the reference genomes |
 +---------------+--------------------------------------------+
-| read1.fq      | Read 1 of paired reads (FASTQ)             |
+| read1.fq.gz   | Read 1 of paired reads (gzipped FASTQ)     |
 +---------------+--------------------------------------------+
-| read2.fq      | Read 2 of paired reads (FASTQ)             |
+| read2.fq.gz   | Read 2 of paired reads (gzipped FASTQ)     |
 +---------------+--------------------------------------------+
 
